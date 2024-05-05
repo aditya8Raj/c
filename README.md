@@ -1,7 +1,7 @@
 <br>
 <a href='#'>
 <p align="center">
-   <img width="100" src="https://cdn.discordapp.com/attachments/1221526797255180289/1221527077417910456/c-programming.png?ex=6612e6be&is=660071be&hm=5509bd538743a9d84d111a3438b1c26163a01948f0eb2eaddf823ca4473dff08&" alt="C File Icon">
+   <img width="100" src="./c-logo.png" alt="C File Icon">
 </p>
 </a>
 
